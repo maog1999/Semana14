@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553526528764",
+    "project_id": "semana15-bfc12",
+    "storage_bucket": "semana15-bfc12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553526528764:android:ddbdcea4b70d8f46ac6579",
+        "android_client_info": {
+          "package_name": "com.example.practicasemana14"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553526528764-j53uthlrhln22dongdjg10de0o9b2890.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAorCjnneeCNu0uil8tNbnSEj_U8x3cy38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553526528764-j53uthlrhln22dongdjg10de0o9b2890.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
